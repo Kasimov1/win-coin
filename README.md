@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <p>Никита гей скинь дзху любую</p>
+  <p>Win-coin</p>
 
 </body>
 </html>
